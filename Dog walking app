@@ -127,7 +127,6 @@ caption {
 		<br>
 		<br>
 		<br>
-		<br>
 		<div class="randomizer"; align="center">
 		<p> You can also check the number of workers right now. </p>
 		<button class="button"; onclick="randomize()";> Check the amount of dog walkers </button>
